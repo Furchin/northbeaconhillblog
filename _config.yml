@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   North Beacon Hill is roughly bordered by I-5 to the West, Jefferson Park to the South,
   Rainier Ave S to the East, and I-90 to the North.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "northbeaconhillblog.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://northbeaconhillblog.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: northbeaconhillblog
 #github_username:  furchin
 
