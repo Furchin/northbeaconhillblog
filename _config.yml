@@ -21,8 +21,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Rainier Ave S to the East, and I-90 to the North.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "northbeaconhillblog.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: northbeaconhill
+# twitter_username: northbeaconhillblog
 #github_username:  furchin
+
+show_excerpts: true
+google_analytics: UA-1543682-11
 
 # Build settings
 markdown: kramdown
